@@ -10,12 +10,12 @@
 #EXTINF:0 tvg-logo="" group-title="Link Off?",21969094912
 #
 
-#EXTINF:0 tvg-logo="" group-title=" ",1
-123
-#EXTINF:0 tvg-logo="" group-title=S&eacute;ries,1
-123
-#EXTINF:0 tvg-logo="" group-title=" ",1
-123
+#EXTINF:0 tvg-logo="" group-title=" ",.
+https://www.google.com
+#EXTINF:0 tvg-logo="" group-title="S&eacute;ries",.
+https://www.google.com
+#EXTINF:0 tvg-logo="" group-title=" ",.
+https://www.google.com
 
 #EXTINF:-1 tvg-logo="http://goo.gl/mJxLCg" group-title="Arrested Development",1x01
 http://188.240.220.136/j5jhpvkxoyqwws4phxcts46u7techjeq3aykm5fyzo5rlvos5wnidt53phlq/video.mp4
@@ -39,15 +39,15 @@ http://r15---sn-gpv7enel.googlevideo.com/videoplayback?id=1fb3264a56e3bee7&itag=
 
 
 
-#EXTINF:0 tvg-logo="" group-title=" ",1
-123
-#EXTINF:0 tvg-logo="" group-title="Filmes",1
-123
-#EXTINF:0 tvg-logo="" group-title=" ",1
-123
+#EXTINF:0 tvg-logo="" group-title=" ",.
+https://www.google.com
+#EXTINF:0 tvg-logo="" group-title="Filmes",.
+https://www.google.com
+#EXTINF:0 tvg-logo="" group-title=" ",.
+https://www.google.com
 
 #EXTINF:0 tvg-logo="" group-title="Com&eacute;dia",American Pie 1
-
+https://www.google.com
 
 
 
