@@ -1,4 +1,0 @@
-LISTAS FEITAS POR GABRIEL MARTINS
-Encurtador da lista : bit.ly
-Encurtador das imagens : goo.gl
-Hospedagem das listas : github
