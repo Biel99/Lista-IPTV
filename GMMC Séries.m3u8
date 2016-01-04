@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="https://goo.gl/e2kcR7" pltv-name="GMMC Séries";
-#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Por Gabriel Martins";
-#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Link Off?",Whatsapp;
-#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Link Off?",21969094912;
+#PLAYLISTV: pltv-logo="https://goo.gl/e2kcR7" pltv-name="GMMC Séries",
+#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Por Gabriel Martins",
+#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Link Off?",Whatsapp,
+#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Link Off?",21969094912,
 ##########
 #EXTINF:-1 tvg-logo="http://goo.gl/SzO4WZ" group-title="Arrested Development Leg",1x01
 http://188.240.220.136/j5jhpvkxoyqwws4phxcts46u7techjeq3aykm5fyzo5rlvos5wnc7iv4phlq/video.mp4?start=0
