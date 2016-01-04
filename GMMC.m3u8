@@ -10,10 +10,12 @@
 #EXTINF:0 tvg-logo="" group-title="Link Off?",21969094912
 #
 
-#EXTINF:0 tvg-logo="" group-title=" ",. .
-#EXTINF:0 tvg-logo="" group-title="Filmes",. .
-#EXTINF:0 tvg-logo="" group-title=" ",. .
-
+#EXTINF:0 tvg-logo="" group-title=" ",.
+#
+#EXTINF:0 tvg-logo="" group-title="Séries",.
+#
+#EXTINF:0 tvg-logo="" group-title=" ",.
+#
 
 #EXTINF:-1 tvg-logo="http://goo.gl/mJxLCg" group-title="Arrested Development",1x01
 http://188.240.220.136/j5jhpvkxoyqwws4phxcts46u7techjeq3aykm5fyzo5rlvos5wnidt53phlq/video.mp4
@@ -32,3 +34,29 @@ http://r20---sn-gpv7enee.googlevideo.com/videoplayback?id=aeca43180016f49b&itag=
 
 #EXTINF:-1 tvg-logo="http://goo.gl/2X9U6w" group-title="The Walking Dead",1x01
 http://r15---sn-gpv7enel.googlevideo.com/videoplayback?id=1fb3264a56e3bee7&itag=18&source=blogger&app=blogger&ip=200.149.106.182&ipbits=0&expire=1454087376&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=740EBB9B9195F9218736BDE8E45CB8D4898CF807.15D13B36D13E6D95E6E73CD0A18EF06711BA791F&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enel&ms=nxu&mt=1451939781&mv=m&pl=23
+
+
+
+
+
+#EXTINF:0 tvg-logo="" group-title=" ",.
+#
+#EXTINF:0 tvg-logo="" group-title="Filmes",.
+#
+#EXTINF:0 tvg-logo="" group-title=" ",.
+#
+
+#EXTINF:0 tvg-logo="" group-title="Comédia",American Pie 1
+http://gs.video.tt/s?v=hrKSXgvbm&t=1451942480&u=&r=2&c=0f424634174c1dc539527a71934e9ed6b44e18d4729bc443401c8203964797b42b007ac5784f03e1a60145084bf0b239
+
+
+
+
+
+
+
+
+
+
+
+
