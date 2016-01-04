@@ -10,11 +10,11 @@
 #EXTINF:0 tvg-logo="" group-title="Link Off?",21969094912
 #
 
-#EXTINF:0 tvg-logo="" group-title=" ",.
+#EXTINF:0 tvg-logo="" group-title=" ",
 #
-#EXTINF:0 tvg-logo="" group-title="Séries",.
+#EXTINF:0 tvg-logo="" group-title="S\u00e9ries",
 #
-#EXTINF:0 tvg-logo="" group-title=" ",.
+#EXTINF:0 tvg-logo="" group-title=" ",
 #
 
 #EXTINF:-1 tvg-logo="http://goo.gl/mJxLCg" group-title="Arrested Development",1x01
@@ -39,15 +39,15 @@ http://r15---sn-gpv7enel.googlevideo.com/videoplayback?id=1fb3264a56e3bee7&itag=
 
 
 
-#EXTINF:0 tvg-logo="" group-title=" ",.
+#EXTINF:0 tvg-logo="" group-title=" ",
 #
-#EXTINF:0 tvg-logo="" group-title="Filmes",.
+#EXTINF:0 tvg-logo="" group-title="Filmes",
 #
-#EXTINF:0 tvg-logo="" group-title=" ",.
+#EXTINF:0 tvg-logo="" group-title=" ",
 #
 
-#EXTINF:0 tvg-logo="" group-title="Comédia",American Pie 1
-http://gs.video.tt/s?v=hrKSXgvbm&t=1451942480&u=&r=2&c=0f424634174c1dc539527a71934e9ed6b44e18d4729bc443401c8203964797b42b007ac5784f03e1a60145084bf0b239
+#EXTINF:0 tvg-logo="" group-title="Com\u00e9dia",American Pie 1
+
 
 
 
