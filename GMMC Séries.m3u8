@@ -1,8 +1,8 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="https://goo.gl/e2kcR7" pltv-name="GMMC Séries"
-#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Por Gabriel Martins"
-#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Link Off ?",Whatsapp
-#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Link Off ?",21 9 6909 4912
+#PLAYLISTV: pltv-logo="https://goo.gl/e2kcR7" pltv-name="GMMC Séries";
+#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Por Gabriel Martins";
+#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Link Off?",Whatsapp;
+#EXTINF:0 tvg-logo="https://goo.gl/e2kcR7" group-title="Link Off?",21969094912;
 ##########
 #EXTINF:-1 tvg-logo="http://goo.gl/SzO4WZ" group-title="Arrested Development Leg",1x01
 http://188.240.220.136/j5jhpvkxoyqwws4phxcts46u7techjeq3aykm5fyzo5rlvos5wnc7iv4phlq/video.mp4?start=0
@@ -17,3 +17,6 @@ http://r19---sn-gpv7en7e.googlevideo.com/videoplayback?id=ca30777f9a4ce883&itag=
 http://r4---sn-gpv7en7e.googlevideo.com/videoplayback?id=ca468298dee856fc&itag=18&source=blogger&app=blogger&ip=200.149.106.182&ipbits=0&expire=1454016949&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=63B6765CCCCCF56537FA8A8203007AB3A269B0B6.0E2F3EA814881A12D266C1B42F990FA681C4845E&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7en7e&ms=nxu&mt=1451869384&mv=m&pl=23
 #EXTINF:-1 tvg-logo="" group-title="The Big Bang Theory",1x03
 http://r20---sn-gpv7enee.googlevideo.com/videoplayback?id=aeca43180016f49b&itag=18&source=blogger&app=blogger&ip=200.149.106.182&ipbits=0&expire=1454016982&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=7B5C5DE79FCD23E6B75B45E57E828C3DC7F8344A.1A8432E095325B02BB183EB8E534A96B8CDA8D49&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enee&ms=nxu&mt=1451869384&mv=m&pl=23
+##########
+#EXTINF:-1 tvg-logo="" group-title="The Walking Dead",1x01
+http://green.vidigvideo.com:8777/5vbezhghtcgu3frmooipqf43rqdbjn3cna53kjkiqsjn7i3az7u4glgygw7q/v.flv?start=0
