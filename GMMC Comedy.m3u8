@@ -1,18 +1,26 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="" pltv-name="GMMC Comedy"
-
-#EXTINF:0 tvg-logo="" group-title="Por Gabriel Martins",1
-###
+#PLAYLISTV: pltv-logo="http://goo.gl/5bP8JO" pltv-name="GMMC Comedy"
+#EXTINF:0 tvg-logo="http://goo.gl/5bP8JO" group-title="Por Gabriel Martins",*
+##
 #EXTINF:0 tvg-logo="http://goo.gl/Pvd2Wp" group-title="Link Off?",Whatsapp :
-###
+##
 #EXTINF:0 tvg-logo="http://goo.gl/Pvd2Wp" group-title="Link Off?",21969094912
-###
+##
+
+### Filmes ###
+
+#EXTINF:0 tvg-logo="http://goo.gl/tNbhqa" group-title="Filmes",American Pie 1 : A Primeira Vez é Inesquecível
+http://d5.neodrive.co/stream/UVPL1TXEPLTP/9bb507e1f360ce5fbe5bbf19e69b55f2.mp4?st=OMh-A60FWOw91Bn32rmCvg
 
 #EXTINF:0 tvg-logo="http://goo.gl/e161jw" group-title="Filmes",Projeto X : Uma Festa Fora De Controle
 http://d1.neodrive.co/stream/PLPL1TB9PLB9/7b14b8626559267288452420a5616dd6.mp4?st=TJ1Wmf9u-wnKFXBOmFFytw
 
+### Séries ###
+
 #EXTINF:0 tvg-logo="http://goo.gl/mJxLCg" group-title="Arrested Development",1x01
-http://188.240.220.136/j5jhpvkxoyqwws4phxcts46u7techjeq3aykm5fyzo5rlvos5wnidt53phlq/video.mp4
+http://188.240.220.136/j5jhpvkxoyqwws4phxcts46u7techjeq3aykm5fyzo5rlbnk36fg5sq46dzq/video.mp4?start=0
+#EXTINF:0 tvg-logo="http://goo.gl/mJxLCg" group-title="Arrested Development",1x02
+http://95.211.185.5/pjjhpw2xoyqwws4phxcts5ub4uepfhgqe5nr2dazkzx3ppinqhh3awccbmoa/video.mp4?start=0
 
 #EXTINF:1 tvg-logo="http://goo.gl/D3rzWh" group-title="Friends",1x01
 http://stream.redecanais.com/RedeCanais/RedeCanais/RCServer09/ondemand/FRIENDSS01EP01.mp4
