@@ -1,5 +1,10 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="" pltv-name=""
-#EXTINF:0 tvg-logo="" group-title="",
 
-#EXTINF:0 tvg-logo="" group-title="",
+#PLAYLISTV: pltv-logo="" pltv-name=""
+
+
+#EXTINF:0 tvg-logo="" group-title="Hue",Vidto
+198.16.68.66/3jjxp5r4oyqwws4phxpds4ecxwddpo425lubcvilprmqvlz36hxycgzcjzzq/video.mp4
+
+#EXTINF:0 tvg-logo="" group-title="Hue",The Office 4x09 Leg
+https://www.blogger.com/video-play.mp4?contentId=9448ab297c703a0e
