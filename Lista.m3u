@@ -1,24 +1,60 @@
 #EXTM3U
+#PLAYLISTV: pltv-logo="http://gabriel99.tk/Logo.png" pltv-name="Lista Gabriel" pltv-author="GABRIEL99"
 
-#PLAYLISTV: pltv-logo="" pltv-name=""
+####################################################################################################################### The Office (U.K.)
+
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",1x01 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP01.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",1x02 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP02.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",1x03 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP03.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",1x04 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP04.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",1x05 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP05.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",1x06 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP06.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",2x01 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS02EP01.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",2x02 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS02EP02.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",2x03 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS02EP03.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",2x04 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS02EP04.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",2x05 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS02EP05.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",2x06 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS02EP06.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",Especial de Natal I Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXCHRSPT01.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",Especial de Natal II Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXCHRSPT02.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",Bloopers
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXBL.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",David Brent If You Dont Know Me By Now
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXDBIYDK.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",Closed For Business
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXCLSDBS.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",Deleted Scenes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXDS.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",How I Made The Office
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXDCM.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",Golden Globes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXGGF.mp4
+#EXTINF:0 tvg-logo="" group-title="The Office (U.K.)",Freelove Freeway
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXVDOTMO.mp4
+
+#######################################################################################################################
 
 
-#EXTINF:0 tvg-logo="" group-title="Hue",Vidto
-http://198.16.68.66/3jjxp5r4oyqwws4phxpds4ecxwddpo425lubcvilprmqvlz36hxycgzcjzzq/video.mp4
-
-#EXTINF:0 tvg-logo="" group-title="Hue",Deadpool
-https://drive.google.com/timedtext?authuser=0&id=0B9hBYTktdrn2ZmNUNV9uZTJHZzQ&vid=36a259548f35936c&hl=pt-BR&type=list&tlangs=1&v=0B9hBYTktdrn2ZmNUNV9uZTJHZzQ&fmts=1&vssids=1
-
-#EXTINF:0 tvg-logo="" group-title="Terror",O Iluminado (Dub 480p)
-https://cs543608.vk.me/u280852040/videos/0003ab564e.480.mp4
-
-#EXTINF:0 tvg-logo="" group-title="The Office (US)",4x09 Leg
-https://www.blogger.com/video-play.mp4?contentId=9448ab297c703a0e
 
 
 
-#EXTINF:0 tvg-logo="" group-title="Hue",s105 n
-https://openload.co/stream/OTPwG1lDvLk~1466280124~189.24.0.0~Inr-l56P
 
-#EXTINF:0 tvg-logo="" group-title="Hue",s105 m
-https://pgli86.oloadcdn.net/dl/l/S_cGW5b-WJ8/OTPwG1lDvLk/MFHD+SEINFELD+LEG+1X05.avi.mp4
+
+
+
+
+
