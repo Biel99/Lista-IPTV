@@ -1,23 +1,23 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="http://gabriel99.tk/Logo.png" pltv-name="Lista Gabriel" pltv-author="GABRIEL99"
+#PLAYLISTV: pltv-logo="http://gabriel99.tk/Logo.png" pltv-name="Gabriel99" pltv-author="GABRIEL99"
 
 ####################################################################################################################### The Office (U.K.)
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Biel99/Lista-IPTV/master/Thumbs/theofficeuk.jpg" group-title="The Office (U.K.)",1x01 Leg
+#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",1x01 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP01.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Biel99/Lista-IPTV/master/Thumbs/theofficeuk.jpg" group-title="The Office (U.K.)",1x02 Leg
+#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",1x02 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP02.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Biel99/Lista-IPTV/master/Thumbs/theofficeuk.jpg" group-title="The Office (U.K.)",1x03 Leg
+#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",1x03 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP03.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Biel99/Lista-IPTV/master/Thumbs/theofficeuk.jpg" group-title="The Office (U.K.)",1x04 Leg
+#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",1x04 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP04.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Biel99/Lista-IPTV/master/Thumbs/theofficeuk.jpg" group-title="The Office (U.K.)",1x05 Leg
+#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",1x05 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP05.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Biel99/Lista-IPTV/master/Thumbs/theofficeuk.jpg" group-title="The Office (U.K.)",1x06 Leg
+#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",1x06 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP06.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Biel99/Lista-IPTV/master/Thumbs/theofficeuk.jpg" group-title="The Office (U.K.)",2x01 Leg
+#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",2x01 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS02EP01.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Biel99/Lista-IPTV/master/Thumbs/theofficeuk.jpg" group-title="The Office (U.K.)",2x02 Leg
+#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",2x02 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS02EP02.mp4
 #EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",2x03 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS02EP03.mp4
@@ -49,12 +49,17 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXVDOT
 #######################################################################################################################
 
 
+#EXTINF:0 tvg-logo="" group-title="Comédia",American Pie - A Primeira Vez é Inesquecível
+https://oqt1p2.oloadcdn.net/dl/l/Jg7BzjWRM6g/-swWnjD77H8/American+Pie+-+A+Primeira+Vez+%C3%A9+Inesquec%C3%ADvel.mp4
 
+#EXTINF:0 tvg-logo="" group-title="Comédia",O Último Americano Virgem
+https://pgli8u.oloadcdn.net/dl/l/b45yWTy8Yms/KkLi0CXuxx8/O+%C3%9Altimo+Americano+Virgem.mp4
 
+#EXTINF:0 tvg-logo="" group-title="Comédia",Gatinhas e Gatões
+https://1fgm8zm.oloadcdn.net/dl/l/9VNV6nbksLo/jtbGxm6mPNU/Gatinhas+e+Gat%C3%B5es.mp4
 
-
-
-
+#EXTINF:0 tvg-logo="" group-title="Comédia",Kick Ass - Quebrando Tudo
+https://ph2dwo.oloadcdn.net/dl/l/hJ52R_HaMDE/_Gwk4j1pT_w/Kick+Ass+-+Quebrando+Tudo.mp4
 
 
 
