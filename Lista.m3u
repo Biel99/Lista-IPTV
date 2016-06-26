@@ -1,6 +1,7 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://gabriel99.tk/Logo.png" pltv-name="Gabriel99" pltv-author="Gabriel99"
 
+
 ####################################################################################################################### The Office (U.K.)
 #EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",1x01 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP01.mp4
@@ -45,15 +46,29 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXGGF.
 #EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",Freelove Freeway
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXVDOTMO.mp4
 #######################################################################################################################
-
-
-
-
-
-#EXTINF:0 tvg-logo="" group-title="Comedy",Eurotrip
-https://openload.co/stream/TERuSCxDKQE~1466994079~186.241.0.0~aypScZz6
-
-#EXTINF:0 tvg-logo="" group-title="The Office (U.S.)",1x01 Leg
+#---------------------------------------------------------------------------------------------------------------------#
+####################################################################################################################### The Office (U.S.)
+#EXTINF:0 tvg-logo="https://goo.gl/nY74pw" group-title="The Office (U.S.)",1x01 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUSS01EP01.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/nY74pw" group-title="The Office (U.S.)",1x02 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUSS01EP02.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/nY74pw" group-title="The Office (U.S.)",1x03 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUSS01EP03.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/nY74pw" group-title="The Office (U.S.)",1x04 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUSS01EP04.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/nY74pw" group-title="The Office (U.S.)",1x05 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUSS01EP05.mp4
+#EXTINF:0 tvg-logo="https://goo.gl/nY74pw" group-title="The Office (U.S.)",1x06 Leg
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUSS01EP06.mp4
+#######################################################################################################################
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="" group-title="Test",Eurotrip
+https://openload.co/stream/TERuSCxDKQE~1466994079~186.241.0.0~aypScZz6
 
 
