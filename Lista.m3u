@@ -1,8 +1,7 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="http://gabriel99.tk/Logo.png" pltv-name="Gabriel99" pltv-author="GABRIEL99"
+#PLAYLISTV: pltv-logo="http://gabriel99.tk/Logo.png" pltv-name="Gabriel99" pltv-author="Gabriel99"
 
 ####################################################################################################################### The Office (U.K.)
-
 #EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",1x01 Leg
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKS01EP01.mp4
 #EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",1x02 Leg
@@ -33,7 +32,7 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXCHRS
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXCHRSPT02.mp4
 #EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",Bloopers
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXBL.mp4
-#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",David Brent If You Dont Know Me By Now
+#EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",David Brent - If You Dont Know Me By Now
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXDBIYDK.mp4
 #EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",Closed For Business
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXCLSDBS.mp4
@@ -45,21 +44,16 @@ http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXDCM.
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXGGF.mp4
 #EXTINF:0 tvg-logo="https://goo.gl/EX8bXq" group-title="The Office (U.K.)",Freelove Freeway
 http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/THOFCUKEXVDOTMO.mp4
-
 #######################################################################################################################
 
 
-#EXTINF:0 tvg-logo="" group-title="ComÃ©dia",American Pie - A Primeira Vez Ã© InesquecÃvel
-https://oqt1p2.oloadcdn.net/dl/l/Jg7BzjWRM6g/-swWnjD77H8/American+Pie+-+A+Primeira+Vez+%C3%A9+Inesquec%C3%ADvel.mp4
 
-#EXTINF:0 tvg-logo="" group-title="ComÃ©dia",O Ãšltimo Americano Virgem
-https://pgli8u.oloadcdn.net/dl/l/b45yWTy8Yms/KkLi0CXuxx8/O+%C3%9Altimo+Americano+Virgem.mp4
 
-#EXTINF:0 tvg-logo="" group-title="ComÃ©dia",Gatinhas e GatÃµes
-https://1fgm8zm.oloadcdn.net/dl/l/9VNV6nbksLo/jtbGxm6mPNU/Gatinhas+e+Gat%C3%B5es.mp4
 
-#EXTINF:0 tvg-logo="" group-title="ComÃ©dia",Kick Ass - Quebrando Tudo
-https://ph2dwo.oloadcdn.net/dl/l/hJ52R_HaMDE/_Gwk4j1pT_w/Kick+Ass+-+Quebrando+Tudo.mp4
+#EXTINF:0 tvg-logo="" group-title="Comédia",Eurotrip
+https://openload.co/f/TERuSCxDKQE/Eurotrip_-_Passaporte_Para_a_Confus%C3%A3o_-_Dublado.mp4.mp4
+
+
 
 
 
